@@ -1,0 +1,1434 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "cookbook",
+			"cwd": "cookbook",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "cookbook (profile mode)",
+			"cwd": "cookbook",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "cookbook (release mode)",
+			"cwd": "cookbook",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "dartpad_codelabs",
+			"cwd": "dartpad_codelabs",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "dartpad_codelabs (profile mode)",
+			"cwd": "dartpad_codelabs",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "dartpad_codelabs (release mode)",
+			"cwd": "dartpad_codelabs",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "plugin_codelab",
+			"cwd": "plugin_codelab",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "plugin_codelab (profile mode)",
+			"cwd": "plugin_codelab",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "plugin_codelab (release mode)",
+			"cwd": "plugin_codelab",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "adaptive_app_step_03",
+			"cwd": "adaptive_app/step_03",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "adaptive_app_step_03 (profile mode)",
+			"cwd": "adaptive_app/step_03",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "adaptive_app_step_03 (release mode)",
+			"cwd": "adaptive_app/step_03",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "adaptive_app_step_04",
+			"cwd": "adaptive_app/step_04",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "adaptive_app_step_04 (profile mode)",
+			"cwd": "adaptive_app/step_04",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "adaptive_app_step_04 (release mode)",
+			"cwd": "adaptive_app/step_04",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "adaptive_app_step_05",
+			"cwd": "adaptive_app/step_05",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "adaptive_app_step_05 (profile mode)",
+			"cwd": "adaptive_app/step_05",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "adaptive_app_step_05 (release mode)",
+			"cwd": "adaptive_app/step_05",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "adaptive_app_step_06",
+			"cwd": "adaptive_app/step_06",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "adaptive_app_step_06 (profile mode)",
+			"cwd": "adaptive_app/step_06",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "adaptive_app_step_06 (release mode)",
+			"cwd": "adaptive_app/step_06",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "adaptive_app_step_07",
+			"cwd": "adaptive_app/step_07",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "adaptive_app_step_07 (profile mode)",
+			"cwd": "adaptive_app/step_07",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "adaptive_app_step_07 (release mode)",
+			"cwd": "adaptive_app/step_07",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "boring_to_beautiful_final",
+			"cwd": "boring_to_beautiful/final",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "boring_to_beautiful_final (profile mode)",
+			"cwd": "boring_to_beautiful/final",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "boring_to_beautiful_final (release mode)",
+			"cwd": "boring_to_beautiful/final",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "boring_to_beautiful_step_01",
+			"cwd": "boring_to_beautiful/step_01",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "boring_to_beautiful_step_01 (profile mode)",
+			"cwd": "boring_to_beautiful/step_01",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "boring_to_beautiful_step_01 (release mode)",
+			"cwd": "boring_to_beautiful/step_01",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "boring_to_beautiful_step_02",
+			"cwd": "boring_to_beautiful/step_02",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "boring_to_beautiful_step_02 (profile mode)",
+			"cwd": "boring_to_beautiful/step_02",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "boring_to_beautiful_step_02 (release mode)",
+			"cwd": "boring_to_beautiful/step_02",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "boring_to_beautiful_step_03",
+			"cwd": "boring_to_beautiful/step_03",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "boring_to_beautiful_step_03 (profile mode)",
+			"cwd": "boring_to_beautiful/step_03",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "boring_to_beautiful_step_03 (release mode)",
+			"cwd": "boring_to_beautiful/step_03",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "boring_to_beautiful_step_04",
+			"cwd": "boring_to_beautiful/step_04",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "boring_to_beautiful_step_04 (profile mode)",
+			"cwd": "boring_to_beautiful/step_04",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "boring_to_beautiful_step_04 (release mode)",
+			"cwd": "boring_to_beautiful/step_04",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "boring_to_beautiful_step_05",
+			"cwd": "boring_to_beautiful/step_05",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "boring_to_beautiful_step_05 (profile mode)",
+			"cwd": "boring_to_beautiful/step_05",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "boring_to_beautiful_step_05 (release mode)",
+			"cwd": "boring_to_beautiful/step_05",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "boring_to_beautiful_step_06",
+			"cwd": "boring_to_beautiful/step_06",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "boring_to_beautiful_step_06 (profile mode)",
+			"cwd": "boring_to_beautiful/step_06",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "boring_to_beautiful_step_06 (release mode)",
+			"cwd": "boring_to_beautiful/step_06",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "boring_to_beautiful_step_07",
+			"cwd": "boring_to_beautiful/step_07",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "boring_to_beautiful_step_07 (profile mode)",
+			"cwd": "boring_to_beautiful/step_07",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "boring_to_beautiful_step_07 (release mode)",
+			"cwd": "boring_to_beautiful/step_07",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "cupertino_store_step_00",
+			"cwd": "cupertino_store/step_00",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "cupertino_store_step_00 (profile mode)",
+			"cwd": "cupertino_store/step_00",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "cupertino_store_step_00 (release mode)",
+			"cwd": "cupertino_store/step_00",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "cupertino_store_step_01",
+			"cwd": "cupertino_store/step_01",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "cupertino_store_step_01 (profile mode)",
+			"cwd": "cupertino_store/step_01",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "cupertino_store_step_01 (release mode)",
+			"cwd": "cupertino_store/step_01",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "cupertino_store_step_02",
+			"cwd": "cupertino_store/step_02",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "cupertino_store_step_02 (profile mode)",
+			"cwd": "cupertino_store/step_02",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "cupertino_store_step_02 (release mode)",
+			"cwd": "cupertino_store/step_02",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "cupertino_store_step_03",
+			"cwd": "cupertino_store/step_03",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "cupertino_store_step_03 (profile mode)",
+			"cwd": "cupertino_store/step_03",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "cupertino_store_step_03 (release mode)",
+			"cwd": "cupertino_store/step_03",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "cupertino_store_step_04",
+			"cwd": "cupertino_store/step_04",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "cupertino_store_step_04 (profile mode)",
+			"cwd": "cupertino_store/step_04",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "cupertino_store_step_04 (release mode)",
+			"cwd": "cupertino_store/step_04",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "cupertino_store_step_05",
+			"cwd": "cupertino_store/step_05",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "cupertino_store_step_05 (profile mode)",
+			"cwd": "cupertino_store/step_05",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "cupertino_store_step_05 (release mode)",
+			"cwd": "cupertino_store/step_05",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "cupertino_store_step_06",
+			"cwd": "cupertino_store/step_06",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "cupertino_store_step_06 (profile mode)",
+			"cwd": "cupertino_store/step_06",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "cupertino_store_step_06 (release mode)",
+			"cwd": "cupertino_store/step_06",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "firebase-get-to-know-flutter_step_02",
+			"cwd": "firebase-get-to-know-flutter/step_02",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "firebase-get-to-know-flutter_step_02 (profile mode)",
+			"cwd": "firebase-get-to-know-flutter/step_02",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "firebase-get-to-know-flutter_step_02 (release mode)",
+			"cwd": "firebase-get-to-know-flutter/step_02",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "firebase-get-to-know-flutter_step_04",
+			"cwd": "firebase-get-to-know-flutter/step_04",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "firebase-get-to-know-flutter_step_04 (profile mode)",
+			"cwd": "firebase-get-to-know-flutter/step_04",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "firebase-get-to-know-flutter_step_04 (release mode)",
+			"cwd": "firebase-get-to-know-flutter/step_04",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "firebase-get-to-know-flutter_step_05",
+			"cwd": "firebase-get-to-know-flutter/step_05",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "firebase-get-to-know-flutter_step_05 (profile mode)",
+			"cwd": "firebase-get-to-know-flutter/step_05",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "firebase-get-to-know-flutter_step_05 (release mode)",
+			"cwd": "firebase-get-to-know-flutter/step_05",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "firebase-get-to-know-flutter_step_06",
+			"cwd": "firebase-get-to-know-flutter/step_06",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "firebase-get-to-know-flutter_step_06 (profile mode)",
+			"cwd": "firebase-get-to-know-flutter/step_06",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "firebase-get-to-know-flutter_step_06 (release mode)",
+			"cwd": "firebase-get-to-know-flutter/step_06",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "firebase-get-to-know-flutter_step_07",
+			"cwd": "firebase-get-to-know-flutter/step_07",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "firebase-get-to-know-flutter_step_07 (profile mode)",
+			"cwd": "firebase-get-to-know-flutter/step_07",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "firebase-get-to-know-flutter_step_07 (release mode)",
+			"cwd": "firebase-get-to-know-flutter/step_07",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "firebase-get-to-know-flutter_step_09",
+			"cwd": "firebase-get-to-know-flutter/step_09",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "firebase-get-to-know-flutter_step_09 (profile mode)",
+			"cwd": "firebase-get-to-know-flutter/step_09",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "firebase-get-to-know-flutter_step_09 (release mode)",
+			"cwd": "firebase-get-to-know-flutter/step_09",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "github-client_step_03",
+			"cwd": "github-client/step_03",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "github-client_step_03 (profile mode)",
+			"cwd": "github-client/step_03",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "github-client_step_03 (release mode)",
+			"cwd": "github-client/step_03",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "github-client_step_04",
+			"cwd": "github-client/step_04",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "github-client_step_04 (profile mode)",
+			"cwd": "github-client/step_04",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "github-client_step_04 (release mode)",
+			"cwd": "github-client/step_04",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "github-client_step_05",
+			"cwd": "github-client/step_05",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "github-client_step_05 (profile mode)",
+			"cwd": "github-client/step_05",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "github-client_step_05 (release mode)",
+			"cwd": "github-client/step_05",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "github-client_step_06",
+			"cwd": "github-client/step_06",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "github-client_step_06 (profile mode)",
+			"cwd": "github-client/step_06",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "github-client_step_06 (release mode)",
+			"cwd": "github-client/step_06",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "github-client_step_07",
+			"cwd": "github-client/step_07",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "github-client_step_07 (profile mode)",
+			"cwd": "github-client/step_07",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "github-client_step_07 (release mode)",
+			"cwd": "github-client/step_07",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "github-client_window_to_front",
+			"cwd": "github-client/window_to_front",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "github-client_window_to_front (profile mode)",
+			"cwd": "github-client/window_to_front",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "github-client_window_to_front (release mode)",
+			"cwd": "github-client/window_to_front",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "google-maps-in-flutter_step_3",
+			"cwd": "google-maps-in-flutter/step_3",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "google-maps-in-flutter_step_3 (profile mode)",
+			"cwd": "google-maps-in-flutter/step_3",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "google-maps-in-flutter_step_3 (release mode)",
+			"cwd": "google-maps-in-flutter/step_3",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "google-maps-in-flutter_step_4",
+			"cwd": "google-maps-in-flutter/step_4",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "google-maps-in-flutter_step_4 (profile mode)",
+			"cwd": "google-maps-in-flutter/step_4",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "google-maps-in-flutter_step_4 (release mode)",
+			"cwd": "google-maps-in-flutter/step_4",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "google-maps-in-flutter_step_5",
+			"cwd": "google-maps-in-flutter/step_5",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "google-maps-in-flutter_step_5 (profile mode)",
+			"cwd": "google-maps-in-flutter/step_5",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "google-maps-in-flutter_step_5 (release mode)",
+			"cwd": "google-maps-in-flutter/step_5",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "photos-sharing_final",
+			"cwd": "photos-sharing/final",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "photos-sharing_final (profile mode)",
+			"cwd": "photos-sharing/final",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "photos-sharing_final (release mode)",
+			"cwd": "photos-sharing/final",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "photos-sharing_initial",
+			"cwd": "photos-sharing/initial",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "photos-sharing_initial (profile mode)",
+			"cwd": "photos-sharing/initial",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "photos-sharing_initial (release mode)",
+			"cwd": "photos-sharing/initial",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "plugin_codelab_example",
+			"cwd": "plugin_codelab/example",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "plugin_codelab_example (profile mode)",
+			"cwd": "plugin_codelab/example",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "plugin_codelab_example (release mode)",
+			"cwd": "plugin_codelab/example",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "star_counter_step_04",
+			"cwd": "star_counter/step_04",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "star_counter_step_04 (profile mode)",
+			"cwd": "star_counter/step_04",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "star_counter_step_04 (release mode)",
+			"cwd": "star_counter/step_04",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "star_counter_step_05",
+			"cwd": "star_counter/step_05",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "star_counter_step_05 (profile mode)",
+			"cwd": "star_counter/step_05",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "star_counter_step_05 (release mode)",
+			"cwd": "star_counter/step_05",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "star_counter_step_06",
+			"cwd": "star_counter/step_06",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "star_counter_step_06 (profile mode)",
+			"cwd": "star_counter/step_06",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "star_counter_step_06 (release mode)",
+			"cwd": "star_counter/step_06",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "star_counter_step_07",
+			"cwd": "star_counter/step_07",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "star_counter_step_07 (profile mode)",
+			"cwd": "star_counter/step_07",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "star_counter_step_07 (release mode)",
+			"cwd": "star_counter/step_07",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "star_counter_step_08",
+			"cwd": "star_counter/step_08",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "star_counter_step_08 (profile mode)",
+			"cwd": "star_counter/step_08",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "star_counter_step_08 (release mode)",
+			"cwd": "star_counter/step_08",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "star_counter_step_09",
+			"cwd": "star_counter/step_09",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "star_counter_step_09 (profile mode)",
+			"cwd": "star_counter/step_09",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "star_counter_step_09 (release mode)",
+			"cwd": "star_counter/step_09",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "star_counter_step_10",
+			"cwd": "star_counter/step_10",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "star_counter_step_10 (profile mode)",
+			"cwd": "star_counter/step_10",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "star_counter_step_10 (release mode)",
+			"cwd": "star_counter/step_10",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "startup_namer_step1_base",
+			"cwd": "startup_namer/step1_base",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "startup_namer_step1_base (profile mode)",
+			"cwd": "startup_namer/step1_base",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "startup_namer_step1_base (release mode)",
+			"cwd": "startup_namer/step1_base",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "startup_namer_step2_use_package",
+			"cwd": "startup_namer/step2_use_package",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "startup_namer_step2_use_package (profile mode)",
+			"cwd": "startup_namer/step2_use_package",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "startup_namer_step2_use_package (release mode)",
+			"cwd": "startup_namer/step2_use_package",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "startup_namer_step3_stateful_widget",
+			"cwd": "startup_namer/step3_stateful_widget",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "startup_namer_step3_stateful_widget (profile mode)",
+			"cwd": "startup_namer/step3_stateful_widget",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "startup_namer_step3_stateful_widget (release mode)",
+			"cwd": "startup_namer/step3_stateful_widget",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "startup_namer_step4_infinite_list",
+			"cwd": "startup_namer/step4_infinite_list",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "startup_namer_step4_infinite_list (profile mode)",
+			"cwd": "startup_namer/step4_infinite_list",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "startup_namer_step4_infinite_list (release mode)",
+			"cwd": "startup_namer/step4_infinite_list",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "startup_namer_step5_add_icons",
+			"cwd": "startup_namer/step5_add_icons",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "startup_namer_step5_add_icons (profile mode)",
+			"cwd": "startup_namer/step5_add_icons",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "startup_namer_step5_add_icons (release mode)",
+			"cwd": "startup_namer/step5_add_icons",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "startup_namer_step6_add_interactivity",
+			"cwd": "startup_namer/step6_add_interactivity",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "startup_namer_step6_add_interactivity (profile mode)",
+			"cwd": "startup_namer/step6_add_interactivity",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "startup_namer_step6_add_interactivity (release mode)",
+			"cwd": "startup_namer/step6_add_interactivity",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "startup_namer_step7_navigate_route",
+			"cwd": "startup_namer/step7_navigate_route",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "startup_namer_step7_navigate_route (profile mode)",
+			"cwd": "startup_namer/step7_navigate_route",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "startup_namer_step7_navigate_route (release mode)",
+			"cwd": "startup_namer/step7_navigate_route",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "startup_namer_step8_themes",
+			"cwd": "startup_namer/step8_themes",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "startup_namer_step8_themes (profile mode)",
+			"cwd": "startup_namer/step8_themes",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "startup_namer_step8_themes (release mode)",
+			"cwd": "startup_namer/step8_themes",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "testing_codelab_step_03",
+			"cwd": "testing_codelab/step_03",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "testing_codelab_step_03 (profile mode)",
+			"cwd": "testing_codelab/step_03",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "testing_codelab_step_03 (release mode)",
+			"cwd": "testing_codelab/step_03",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "testing_codelab_step_04",
+			"cwd": "testing_codelab/step_04",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "testing_codelab_step_04 (profile mode)",
+			"cwd": "testing_codelab/step_04",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "testing_codelab_step_04 (release mode)",
+			"cwd": "testing_codelab/step_04",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "testing_codelab_step_05",
+			"cwd": "testing_codelab/step_05",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "testing_codelab_step_05 (profile mode)",
+			"cwd": "testing_codelab/step_05",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "testing_codelab_step_05 (release mode)",
+			"cwd": "testing_codelab/step_05",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "testing_codelab_step_06",
+			"cwd": "testing_codelab/step_06",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "testing_codelab_step_06 (profile mode)",
+			"cwd": "testing_codelab/step_06",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "testing_codelab_step_06 (release mode)",
+			"cwd": "testing_codelab/step_06",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "testing_codelab_step_07",
+			"cwd": "testing_codelab/step_07",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "testing_codelab_step_07 (profile mode)",
+			"cwd": "testing_codelab/step_07",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "testing_codelab_step_07 (release mode)",
+			"cwd": "testing_codelab/step_07",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "tooling_codelab_rebuild",
+			"cwd": "tooling/codelab_rebuild",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "webview_flutter_step_03",
+			"cwd": "webview_flutter/step_03",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "webview_flutter_step_03 (profile mode)",
+			"cwd": "webview_flutter/step_03",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "webview_flutter_step_03 (release mode)",
+			"cwd": "webview_flutter/step_03",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "webview_flutter_step_04",
+			"cwd": "webview_flutter/step_04",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "webview_flutter_step_04 (profile mode)",
+			"cwd": "webview_flutter/step_04",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "webview_flutter_step_04 (release mode)",
+			"cwd": "webview_flutter/step_04",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "webview_flutter_step_05",
+			"cwd": "webview_flutter/step_05",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "webview_flutter_step_05 (profile mode)",
+			"cwd": "webview_flutter/step_05",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "webview_flutter_step_05 (release mode)",
+			"cwd": "webview_flutter/step_05",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "webview_flutter_step_06",
+			"cwd": "webview_flutter/step_06",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "webview_flutter_step_06 (profile mode)",
+			"cwd": "webview_flutter/step_06",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "webview_flutter_step_06 (release mode)",
+			"cwd": "webview_flutter/step_06",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "webview_flutter_step_07",
+			"cwd": "webview_flutter/step_07",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "webview_flutter_step_07 (profile mode)",
+			"cwd": "webview_flutter/step_07",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "webview_flutter_step_07 (release mode)",
+			"cwd": "webview_flutter/step_07",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "webview_flutter_step_08",
+			"cwd": "webview_flutter/step_08",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "webview_flutter_step_08 (profile mode)",
+			"cwd": "webview_flutter/step_08",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "webview_flutter_step_08 (release mode)",
+			"cwd": "webview_flutter/step_08",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "webview_flutter_step_09",
+			"cwd": "webview_flutter/step_09",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "webview_flutter_step_09 (profile mode)",
+			"cwd": "webview_flutter/step_09",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "webview_flutter_step_09 (release mode)",
+			"cwd": "webview_flutter/step_09",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "webview_flutter_step_10",
+			"cwd": "webview_flutter/step_10",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "webview_flutter_step_10 (profile mode)",
+			"cwd": "webview_flutter/step_10",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "webview_flutter_step_10 (release mode)",
+			"cwd": "webview_flutter/step_10",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "webview_flutter_step_11",
+			"cwd": "webview_flutter/step_11",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "webview_flutter_step_11 (profile mode)",
+			"cwd": "webview_flutter/step_11",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "webview_flutter_step_11 (release mode)",
+			"cwd": "webview_flutter/step_11",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "webview_flutter_step_12",
+			"cwd": "webview_flutter/step_12",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "webview_flutter_step_12 (profile mode)",
+			"cwd": "webview_flutter/step_12",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "webview_flutter_step_12 (release mode)",
+			"cwd": "webview_flutter/step_12",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		}
+	]
+}
