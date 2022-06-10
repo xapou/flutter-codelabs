@@ -407,7 +407,8 @@ class _AlbumArt extends StatelessWidget {
         child: song != null
             ? Image.asset(song!.image.image)
             : Container(
-                color: Colors.pink[100],
+                // color: Colors.pink[100],
+                color: Theme.of(context).colorScheme.primary,
               ),
       ),
     );
